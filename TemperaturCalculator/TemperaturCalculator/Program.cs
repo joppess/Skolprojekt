@@ -7,7 +7,7 @@ namespace TemperaturCalculator
         static void Main(string[] args)
         {
 
-            // skapar ett objekt som heter data av typen temperatureData
+            // skapar ett objekt som heter data av typen temperatureData (instansierar ett objekt)
             TemperatureData data = new TemperatureData();
 
             // vi anropar funjktionerna
@@ -20,6 +20,9 @@ namespace TemperaturCalculator
 
             data.GetLowestTemperature();
 
+            data.GetMedianTemperature();
+
+            data.GetSortingTemperature();
 
             //test
            // data.DoSomething("pokenhnhnhthbhn");
