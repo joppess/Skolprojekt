@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net8.0\TemperatureCalculator.exe
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net8.0\TemperatureCalculator.deps.json
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net8.0\TemperatureCalculator.runtimeconfig.json
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net8.0\TemperatureCalculator.dll
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\bin\Debug\net8.0\TemperatureCalculator.pdb
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.AssemblyInfo.cs
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.dll
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\refint\TemperatureCalculator.dll
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.pdb
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\TemperatureCalculator.genruntimeconfig.cache
+C:\Users\johan\source\repos\TemperatureCalculator\TemperatureCalculator\obj\Debug\net8.0\ref\TemperatureCalculator.dll
